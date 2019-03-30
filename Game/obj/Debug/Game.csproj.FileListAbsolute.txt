@@ -1,0 +1,6 @@
+D:\repository\dotNET\Projects\Game\Game\bin\Debug\Game.exe.config
+D:\repository\dotNET\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\repository\dotNET\Projects\Game\Game\bin\Debug\Game.exe
+D:\repository\dotNET\Projects\Game\Game\bin\Debug\Game.pdb
+D:\repository\dotNET\Projects\Game\Game\obj\Debug\Game.exe
+D:\repository\dotNET\Projects\Game\Game\obj\Debug\Game.pdb
